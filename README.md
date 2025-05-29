@@ -10,7 +10,7 @@ This project is a simple Python script that fetches weather data from the intern
 
 ## How to Use
 
-1. Run the script: `python weather_to_csv.py`
+1. Run the script: `python cloud.py`
 2. Enter the city name when prompted
 3. Weather data will be saved to `weather_data.csv`
 
@@ -21,4 +21,4 @@ This project is a simple Python script that fetches weather data from the intern
 
 ## Author
 
-Your Name
+Salman Rohan
